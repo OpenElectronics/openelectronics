@@ -1,0 +1,44 @@
+= License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+You may also send a letter to:
+
+Creative Commons +
+PO Box 1866 +
+Mountain View, CA 94042
+
+Phone: 1-415-429-5471
+
+== License FAQ
+
+Any information in the FAQ below is intended to help answer questions about the license and is not a substitute for the license.
+
+[qanda]
+Why use a Creative Commons license?::
++
+Books are normally protected by copyright laws, which prohibit the making of copies or adaptations without the author's permission.  The Creative Commons license allows this book to be shared or adapted freely, while retaining author copyright to the work.
++
+Sharing means that you are free to copy and redistribute the material in any medium or format.
++
+Adapting means that you are free to remix, transform, and build upon the material.  For example, this means that readers are free to translate this book into other languages and distribute it without violating the terms of the license.
++
+Why by-nc-sa?::
++
+The by-nc-sa version 4.0 is an international license which includes the following conditions: Attribution, NonCommercial, and ShareAlike.  These conditions are important because they protect the author's intentions for the book.
++
+  Attribution:::
++
+  Requiring attribution means that credit is given to those who have made contributions to this book.  This prevents other people from distributing the book and taking credit for it as their own original work.  Furthermore, it also requires indication if changes were made to the original book.  This is good for readers because it keeps them from receiving a changed or adapted copy without their knowlege.
++
+  NonCommercial:::
++
+  This book is intended to be free.  The NonCommercial term in the license protects the authors from someone taking the book and making money from it without their permission.  It ensures that all readers will have access to this book (and it's adaptations) without having to pay for it.
++
+  ShareAlike:::
++
+  This ensures that any adaptations of this book are distributed under the same license as the original book.  For example, this protects against someone translating the book into another language and charging readers for the translated version.
++
+Why not by-nc-nd?::
++
+The "NoDerivatives" term in the by-nc-nd license means that any adaptation must not be distributed.  One practical consequence is that any translation of this book can't be distributed.  This contradicts one of the goals of this book, which is free and open distribution in multiple languages.
