@@ -1,3 +1,3 @@
-# Open Electronics
+= Open Electronics
 
-The open electronics text book.
+The open electronics textbook.
