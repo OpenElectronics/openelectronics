@@ -25,7 +25,7 @@ Adapting means that you are free to remix, transform, and build upon the materia
 +
 Why by-nc-sa?::
 +
-The by-nc-sa version 4.0 is an international license which includes the following conditions: Attribution, NonCommercial, and ShareAlike.  These conditions are important because they protect the author's intentions for the book.
+The by-nc-sa version 4.0 is an international license which includes the following conditions: Attribution, NonCommercial, and ShareAlike.  These conditions are important because they protect the author's rights and intentions for the book.
 +
   Attribution:::
 +
