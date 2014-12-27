@@ -1,0 +1,7 @@
+== Preface by Chris Wilson
+
+Although I managed to escape college with a fantastically sexy degree in Electrical Engineering and Computer Science, I had almost no hands on experience actually designing or debugging electronics in the real world.  In my four years of college I used a breadboard once.  I did not know how to use a "sillyscope."  In some sick twist of fate, the only programming language I learned really well was http://en.wikipedia.org/wiki/Scheme_%28programming_language%29[Scheme].  My first summer intership revolved around building a wiki, most likely because the hardware manager didn't trust me anywhere remotely near a lab.
+
+After I graduated, I was hired by a small startup in San Francisco to design electronics for wireless sensor networks  (an early foray into the "Internet of Things" hotness of twittering cats and IPv6 enabled Christmas trees).  As a result, I spent the first couple years of my career developing a pragmatic understanding of electronics in the context of a "fly by the seat of your pants" startup environment.
+
+It was only after the startup was acquired, and I started working with "real" hardware engineers, that I realized how little I knew about how to design electronics.  This book is the guide I wish I had as a reference when I was starting my career.  It is my hope that this book will be contributed to and salted by those who know far more about electronics than I do.

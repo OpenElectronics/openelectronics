@@ -1,0 +1,11 @@
+== Introduction
+
+Welcome to the Open Electronics book.  It is no coincidence that the title of this book connotes a spirit of openness and sharing reminiscent of open-source software.  This is an open-source book, and unlike many existing electronics textbooks, this one is available for free.  More importantly, you are free (and encouraged!) to contribute to it.
+
+include::sections/why-another-book-on-electronics.asciidoc[]
+
+include::sections/is-there-a-better-way.asciidoc[]
+
+=== Summary
+
+TODO

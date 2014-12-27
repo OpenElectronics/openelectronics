@@ -1,0 +1,55 @@
+== Why another book on electronics?
+
+There are plenty of existing books on electronics--so many in fact, that it is common for beginners to ask for recommendations on http://electronics.stackexchange.com/questions/616/basic-electronics-book[Q&A sites] and http://www.eevblog.com/forum/beginners/electronics-primers-course-material-and-books/[forums].  Why go through all the effort to write another one?
+
+=== Traditional publishing is broken
+
+In short, the way that technical books have been written, published, and distributed in the past is broken. The sheer amount of content is so great that it is practically impossible publish a technical book without serious errors in the content.  Once the books are published and sold, there is little incentive for the authors or publishers to keep the books up to date until the next edition is ready to be sold.  New editions require significant investment of time and money, and the release cycle is usually very slow.  In practice, even the errata tends to fall to the wayside (if it is published at all).  This thesis is easily proved by looking at a few of the popular introductory electronics books available today.
+
+==== Example 1: Principles and Applications of Electrical Engineering
+
+About a year ago, I found an old third edition copy of http://www.mhhe.com/engcs/electrical/rizzoni/[Principles and Applications of Electrical Engineering] by Giorgio Rizzoni (published 2000).  After reading the first couple chapters, I came across some obvious errors in the text and went online in search of an errata.  It was nowhere to be found.  However, I did find the http://www.amazon.com/Principles-Applications-Electrical-Engineering-Giorgio/dp/0256261164/ref=sr_1_1?ie=UTF8&qid=1419306761&sr=8-1&keywords=0256261164[Amazon.com product page] full of poignant one star reviews.  Here are a couple choice snippets:
+
+[quote]
+____
+This book's errors are too numerous to have been an accident. Someone must have used a random number generator for the answers in the back of the book.
+____
+
+[quote]
+____
+My 'EE for MEs' instructor opened our class, stating this is "the worst textbook ever." ... The solution manual is wrong frequently as well.
+____
+
+[quote]
+____
+I don't understand why there are so many errors even after they put a "Our commitment to accuracy" statement on the first page of the book.
+____
+
+Two new editions and five years later, the http://www.amazon.com/Principles-Applications-Electrical-Engineering-Giorgio/dp/0073220337[fifth edition has equally poor reviews on Amazon.com] (seventeen one-star reviews out of twenty-four total at the time of this writing).  Almost all one-star reviews highlight the excessive number of errors as the major complaint with the book.  The sixth edition is scheduled to be available in early 2015, _ten years_ after the previous edition.
+
+==== Example 2: Practical Electronics for Inventors
+
+An introductory book popular with hobbyists and inventors is http://www.mhprofessional.com/product.php?isbn=0071771336[Practical Electronics for Inventors] by  Paul Scherz & Simon Monk.  The acknowledgements in the third edition state,
+
+[quote]
+____
+Special thanks are due to the technical reviewers [...] We have been able to greatly improve the accuracy of the book thanks to the very detailed and helpful errata from the second edition [...]
+____
+
+Even with the errata from the second edition and the dedicated team of technical reviewers for the third edition, there are still a large number of errors present in the book.  An http://www.eevblog.com/forum/beginners/practical-electronics-for-inventors-third/[unofficial errata] compiled by members of the http://www.eevblog.com[EEVblog] community forums has reached 60 pages long and continues to grow.  The publisher maintains an http://www.mhprofessional.com/downloads/products/0071771336/0071771336_scherzmonk_errata.pdf[official errata] which is not updated as frequently, and isn't nearly as complete as the unofficial one.  The time between the publication of the second edition (2006) and the third edition (2013) was approximately _seven years_.
+
+==== Example 3: The Art of Electronics
+
+Although not technically an introduction to electronics, one of the most recommended electronics books is http://users.physics.harvard.edu/~horowitz/aoe/[The Art of Electronics] by Paul Horowitz & Winfield Hill.  Colloquially known as the "Electronics Bible", it has an overwhelming majority of http://www.amazon.com/exec/obidos/ASIN/0521370957/[5-star reviews on Amazon.com].
+
+So, what's the problem?
+
+It's _really_ outdated.  The latest edition was published in 1989, the year the original Nintendo Game Boy http://www.nintendo.com/corp/history.jsp[made it's debut] and Sir Tim Berners-Lee basically http://webfoundation.org/about/sir-tim-berners-lee/[invented the Internet].  The http://en.wikipedia.org/wiki/The_Art_of_Electronics[Wikipedia page] references a much anticipated third edition, which was supposed to have been published in early 2013, but has been repeatedly delayed with most recent reports indicating publication scheduled for August 2015.  That's a _twenty-six_ year release cycle.
+
+=== Traditional publishing is expensive
+
+The new purchase price for the example books previously mentioned ranges from $40 to nearly $200.  For much of the world, spending this much money on a single book is a non-trivial financial decision, and in some cases completely cost-prohibitive.  Furthermore, the financial risk of publishing a book gives the publisher leverage to influence the book in ways that may negatively affect the quality of the content.
+
+=== Traditional publishing is restrictive
+
+Books are normally protected by copyright laws, which prohibit the making of copies or adaptations without the author’s permission.  For example, it is not possible to translate a book into other languages without the express permission of the copyright holder.  Furthermore, most textbooks do not have a functional feedback mechanism that ensures corrections submitted by readers are distributed in timely manner.  In most cases, there is no easy way for readers to share corrections to the text without resorting to unofficial mailing lists or forums.

@@ -1,0 +1,15 @@
+= Open Electronics
+:doctype: book
+:docinfo:
+:toc:
+:toclevels: 3
+
+// spaces between lines help improve readability in Atom editor preview pane
+
+include::book/license.asciidoc[]
+
+include::book/preface.asciidoc[]
+
+include::book/01-introduction/introduction.asciidoc[]
+
+include::book/02-getting-started/getting-started.asciidoc[]

@@ -1,0 +1,54 @@
+== Is there a better way?
+
+By making a few good decisions upfront about the way this book is written and distributed, most of the problems with traditional publishing can be mitigated.  Releasing it in-progress under a permissive license allows the authors to retain the copyright while allowing others to copy, distribute, or translate the book.  Writing it in an open text-based format allows us to easily edit and manipulate the source files using the same free tools that open-source software projects use to manage source code.  Finally, by hosting and distributing the book online, we can leverage social computing technologies (like https://www.github.com[GitHub]) to enable almost anyone in the world to obtain and contribute to this book for free.
+
+=== Lean publishing
+
+In 2010, Peter Armstrong co-founded https://leanpub.com/[Leanpub] and wrote the https://leanpub.com/manifesto[The Lean Publishing Manifesto], in which he makes a compelling case for the lean publishing movement:
+
+[quote, Peter Armstrong, The Lean Publishing Manifesto]
+____
+Lean Publishing is the act of publishing an in-progress book using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do.
+____
+
+Publishers like https://pragprog.com[The Pragmatic Programmers], http://www.manning.com[Manning], http://www.oreilly.com[O’Reilly Media], and others have realized the benefits of lean publishing, and are starting to provide early access to new books while they are still being written.
+
+Take 30 minutes and go read the Lean Publishing Manifesto.  Seriously, go read it right now.  Understanding the rationale for lean publishing helps provide a context for answering the questions posed in the following sections.
+
+=== Why provide a book at all?
+
+It's worth asking why the information contained in this book is provided in a book format at all?  Why not a website or a community wiki?  What about http://www.allaboutcircuits.com?
+
+TODO
+
+=== Why text-based source files?
+
+Being able to freely edit and colaborate on the underlying source  material is vital to enabling the vision for this book.  Using proprietary tools and formats (e.g. Microsoft Word) have some very undesirable consequences:
+
+. All contributors must have access to the proprietary tool
+. The proprietary tools may not be freely available on all platforms (Mac, Linux, Windows, etc), or may not be supported on all platforms indefinitely
+. Proprietary formats like Microsoft Word make it very difficult to track and share changes when the source is distributed and edited in parallel by many authors
+
+By using a text-based format, the source material can be viewed and edited on any platform with a basic text editor application.  Furthermore, if another format becomes attractive in the future, it is simple to write programs which translate this text into other formats.
+
+=== Why AsciiDoc?
+
+There are a plethora of http://en.wikipedia.org/wiki/Markup_language[Markup languages] available, but lean publishing advocates for a "lightweight" text format.  This rules out verbose "heavyweight" languages like DocBook and LaTeX.  Two of the most popular http://en.wikipedia.org/wiki/Lightweight_markup_language[lightweight markup languages] are http://daringfireball.net/projects/markdown/[Markdown] and http://www.methods.co.nz/asciidoc/[AsciiDoc].
+
+Traditionally, Markdown has been more popular and seen greater adoption across the web.  However, we're currently using AsciiDoc for the following reasons:
+
+- Markdown is highly fragmented, with each implementation supporting different (and sometimes conflicting) extensions to the basic syntax.  This is due, in part, to the fact that there is no specification for the original Markdown language.
+- Markdown was not designed with books in mind and does not support multi-file documents
+- O'Reilly Media's lean publishing platform https://atlas.oreilly.com/[Atlas] takes the http://chimera.labs.oreilly.com/books/1230000000065[following view] towards Markdown:
+[quote]
+____
+We like Markdown too but it is not robust enough for serious technical documentation. While Atlas has very limited support for Markdown, we strongly encourage you to use AsciiDoc.
+____
+- AsciiDoc is supported by http://asciidoctor.org/[Asciidoctor], "A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats."  Asciidoctor is modern, in active development, and is supported by GitHub.
+- The https://progit.org[Pro Git] book, one of the major inspirations for this book,  https://github.com/progit/progit2#pro-git-second-edition[switched from Markdown to AsciiDoc]
+
+There are efforts to create a Markdown specification called http://commonmark.org[CommonMark], but it does not support many of the features that AsciiDoc provides for writing books.  Leanpub is working on a variant of CommonMark called http://markua.org[Markua] which adds features for book and documentation concepts.
+
+=== Why Git and GitHub?
+
+TODO

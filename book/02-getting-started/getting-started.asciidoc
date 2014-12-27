@@ -1,0 +1,13 @@
+== Getting Started
+
+One of the visions for this book is that anyone can download the source and build it using freely available tools.  If something is wrong in the book, you can fix it yourself, and you can easily share your changes with other readers.  This chapter will provide instructions on how to install the required tools and build the book on your own computer.  It also describes how to contribute your changes back to the official source text.
+
+include::sections/installing-the-tools.asciidoc[]
+
+include::sections/building-the-book.asciidoc[]
+
+include::sections/contributing.asciidoc[]
+
+=== Summary
+
+TODO

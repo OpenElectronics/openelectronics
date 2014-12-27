@@ -1,6 +1,8 @@
-= License
+== License
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit
+
+http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 You may also send a letter to:
 
@@ -10,9 +12,9 @@ Mountain View, CA 94042
 
 Phone: 1-415-429-5471
 
-== License FAQ
+=== License FAQ
 
-Any information in the FAQ below is intended to help answer questions about the license and is not a substitute for the license.
+Any information in the FAQ below is intended to help answer questions about why this license was selected and is not a substitute for the license itself.
 
 [qanda]
 Why use a Creative Commons license?::

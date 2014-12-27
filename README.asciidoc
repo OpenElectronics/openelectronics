@@ -1,3 +1,18 @@
 = Open Electronics
 
 The open electronics textbook.
+
+== How to build the book
+
+----
+$ bundle install
+$ bundle exec rake book:build
+Converting to HTML...
+-- HTML output at openelectronics.html
+Converting to EPub...
+-- Epub output at openelectronics.epub
+Converting to Mobi (kf8)...
+-- Mobi output at openelectronics.mobi
+Converting to PDF... (this one takes a while)
+-- PDF  output at openelectronics.pdf
+----
