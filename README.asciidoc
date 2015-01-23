@@ -4,6 +4,7 @@ The open electronics textbook.
 
 == How to build the book
 
+[source,sh]
 ----
 $ bundle install
 $ bundle exec rake book:build
